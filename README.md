@@ -1,3 +1,7 @@
+## Screenshot
+
+![screenshot](docs/screenshot.png)
+
 ## Prerequisites
 
 > **NOTE:** yarn v2 is required.
